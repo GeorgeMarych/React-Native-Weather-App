@@ -19,4 +19,5 @@ $ git clone https://github.com/GeorgeMarych/scandiweb-test
 $ cd SweeftDigital-test
 $ npm install
 $ npm start
+$ note that you will need expo
 ```
