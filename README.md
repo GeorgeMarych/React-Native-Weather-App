@@ -15,8 +15,8 @@ Project is created with:
 To run this project, install it locally using npm:
 
 ```
-$ git clone https://github.com/GeorgeMarych/scandiweb-test
-$ cd SweeftDigital-test
+$ git clone https://github.com/GeorgeMarych/React-Native-Weather-App
+$ cd React-Native-Weather-App
 $ npm install
 $ npm start
 $ note that you will need expo
